@@ -6,3 +6,5 @@
  <br/>
  <br/>
   <p align="center" > <img width="70%" src="https://user-images.githubusercontent.com/101489367/210818100-8bde8a3e-bc04-4a7a-abbd-341e50dce62b.png" alt="button" /></p>
+  <p align="center" >Anyone can use any where😊</p>
+   <p align="center" >No restriction.</p>
